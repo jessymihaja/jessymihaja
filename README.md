@@ -1,55 +1,87 @@
-<h1 align="center">Salut, moi c'est Jessy 👋</h1>
-<p align="center">🎓 Étudiant développeur passionné par le backend, les API et les systèmes web dynamiques</p>
+<h1 align="center">Hey there! I'm Jessy 👋</h1>
+<p align="center">💻 Passionate backend and fullstack developer from Madagascar</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jessy-ranivoaritida-59a606314/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jessy-ranivoaritida-59a606314/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🚀 Projets récents
+## 🚀 Featured Projects
 
-🔹 **[EDBM_inventaire_backend](https://github.com/jessymihaja/EDBM_inventaire_backend)**  
-> Web service Java développé pendant un stage chez EDBM pour gérer les entrées et mouvements de stock.
+### 🔹 [EDBM_inventaire_backend](https://github.com/jessymihaja/EDBM_inventaire_backend)
+> Inventory management web service built in Java (internship project at EDBM).
 
-🔹 **[EDBM_inventaire_frontend](https://github.com/jessymihaja/EDBM_inventaire_frontend)**  
-> Frontend en TypeScript (React) associé au backend précédent, interface claire et interactive.
+### 🔹 [EDBM_inventaire_frontend](https://github.com/jessymihaja/EDBM_inventaire_frontend)
+> Frontend for inventory management built with TypeScript & React.
 
-🔹 **[Course](https://github.com/jessymihaja/Course)**  
-> Application pour la gestion d’un marathon — fullstack JavaScript (projet académique final à l’ITU).
+### 🔹 [Course](https://github.com/jessymihaja/Course)
+> Fullstack app for marathon race management – final project at ITU.
 
-🔹 **[projet_socket](https://github.com/jessymihaja/projet_socket)**  
-> Transfert de documents via socket Java, démonstration de communication bas niveau entre clients.
+### 🔹 [projet_socket](https://github.com/jessymihaja/projet_socket)
+> Java-based file transfer using socket communication (low-level network programming).
 
-🔹 **[S5-webservice-automobile](https://github.com/jessymihaja/S5-webservice-automobile)**  
-> API Java pour gérer une plateforme de vente de voitures (fork et adaptation perso).
+### 🔹 [S5-webservice-automobile](https://github.com/jessymihaja/S5-webservice-automobile)
+> RESTful API for car trading platform – forked and customized version.
 
-🔹 **[framework](https://github.com/jessymihaja/framework)**  
-> Mini-framework web Java, type MVC léger, pour simplifier le routage et les contrôleurs.
-
----
-
-## 🛠️ Stack technique
-
-- **Langages** : Java, TypeScript, JavaScript,PHP
-- **Frameworks** : Spring Boot, React,Laravel
-- **Bases de données** : MySQL, PostgreSQL  
-- **Outils** : Maven, Git, Docker (en apprentissage)
+### 🔹 [framework](https://github.com/jessymihaja/framework)
+> Lightweight MVC-style Java framework for simplified routing and controller management.
 
 ---
 
-## 🎯 Ce que je recherche
+## 🛠️ Tech Stack
 
-- 📚 Toujours en phase d’apprentissage et d'amélioration continue
-- 🤝 Ouvert aux collaborations sur des projets open source ou professionnels
-- 🚀 Motivé à contribuer à des projets avec impact réel
+### 💡 Languages & Frameworks
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring Boot</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
+    <td align="center"><img src="https://vitejs.dev/logo.svg" width="40"/><br>Vite</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express</td>
+  </tr>
+</table>
+
+### 🧰 Tools & Databases
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40"/><br>Maven</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VSCode</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/><br>IntelliJ</td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Me contacter
+## 🎯 Goals & Interests
 
-- 📧 jessyranivoaritida@gmail.com
+- 📚 Continuously learning and improving
+- 🔎 Exploring backend & API design
+- 🤝 Open to collaboration and internship opportunities
+- 💡 Interested in AI, automation, and fullstack web development
 
 ---
 
-_“Construire, apprendre, itérer.”_
+## 📫 How to reach me
+
+- 📧 Email: jessyranivoaritida@gmail.com
+
+---
+
+> _"Build, learn, improve — one commit at a time."_ 🚀
