@@ -48,7 +48,7 @@
 
 ## 📫 Me contacter
 
-- 📧 jessyranivoaritida@gmail.com *(mets ton vrai mail ou un formulaire de contact)*
+- 📧 jessyranivoaritida@gmail.com
 
 ---
 
