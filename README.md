@@ -74,7 +74,7 @@
 - 📚 Continuously learning and improving
 - 🔎 Exploring backend & API design
 - 🤝 Open to collaboration and internship opportunities
-- 💡 Interested in AI, automation, and fullstack web development
+- 💡 Interested fullstack web development and database management
 
 ---
 
