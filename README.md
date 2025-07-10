@@ -81,6 +81,7 @@
 ## 📫 How to reach me
 
 - 📧 Email: jessyranivoaritida@gmail.com
+- 📞 Tel: 0381136232 
 
 ---
 
