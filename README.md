@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Jessy 👋</h1>
-<p align="center">💻 "Computer Science graduate from IT University Madagascar with a strong focus on fullstack development — currently looking for exciting projects or opportunities."</p>
+<p align="center">💻 "Computer Science graduate from IT University Madagascar with a strong focus on fullstack development and database management— currently looking for exciting projects or opportunities."</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessy-ranivoaritida-59a606314/">
